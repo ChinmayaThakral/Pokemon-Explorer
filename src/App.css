@@ -1,0 +1,19 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #f8f8f8;
+}
+
+main {
+  flex: 1;
+}
+
+.footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #f0f0f0;
+  color: #777;
+  font-size: 0.9rem;
+  border-top: 1px solid #ddd;
+} 
